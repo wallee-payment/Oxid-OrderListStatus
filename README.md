@@ -15,8 +15,8 @@ Website | [https://www.customweb.com](https://www.customweb.com)
 This module adds a column in the order list which displays the order status, as well as an option to filter the listed orders by the current status.
 
 #### Requirements
-Oxid CE / PE 4.8+
-Oxid EE 5.1+
+Oxid CE / PE 4.8+  
+Oxid EE 5.1+  
 The plugin does not support composer but works in Oxid 4.10+ and Oxid 6.0+
 
 ### Install
